@@ -30,6 +30,11 @@ Both apps update themselves: when a new version comes out, they offer it when yo
 - 👁 **Live view** from any camera, or all cameras at once, straight from your PC to your phone (encrypted, never saved)
 - 🔒 **Sentinel Shield**: lock the PC when someone touches it; unlock from your phone or with your PIN
 - 🕓 **Timeline** of everything that happened
+- 📹 **Video calls**: show your face full screen on the PC (it wakes up and locks), talk through the PC speakers even when muted, and hear the room
+- 🕶️ **Stealth Arm** from the phone: the PC screens go black and stay black while the cameras keep watching
+- 🎞️ **Recording while armed** in 1-minute clips, with your own quality, disk limit and auto-delete; play any minute on the PC or the phone
+- 🤏 **Live view**: full screen, pinch-to-zoom, double-tap zoom
+- 🔔 **Update notifications** on both apps
 
 ---
 
