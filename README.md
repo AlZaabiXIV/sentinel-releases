@@ -43,12 +43,12 @@ server ever sees your cameras. It's free (Spark plan, no card needed) and takes 
 2. **Create a project** → name it, e.g. `my-sentinel` → you can turn Google Analytics **off** → **Create project**.
 
 ### 2. Turn on the Realtime Database
-1. In the left menu: **Build → Realtime Database → Create database**.
+1. In the left menu: **Databases & Storage → Realtime Database → Create database**. (Older screens call the group *Build*.)
 2. Pick a location (any is fine; *Belgium (europe-west1)* is closest to the UAE) → **Next**.
 3. Choose **Start in locked mode** → **Enable**. (Sentinel installs its own security rules for you.)
 
 ### 3. Turn on anonymous sign-in (so only your paired phones can connect)
-1. **Build → Authentication → Get started**.
+1. In the left menu: **Authentication** (inside the *Security* or *Build* group) → **Get started**.
 2. **Sign-in method** tab → **Anonymous** → switch it **on** → **Save**.
 
 ### 4. Add the Android app and download `google-services.json`
