@@ -85,6 +85,12 @@ Most home Wi-Fi and mobile networks work straight away. If live view never conne
 
 ---
 
+## ✉️ Questions, problems or ideas?
+
+<p align="center"><a href="mailto:sinistero.digital.co@gmail.com?subject=Sentinel%20support"><b>✉️ Contact us</b></a></p>
+
+---
+
 ## 🔐 Privacy
 
 - Pictures, clips and settings stay **on your PC** and in **your own Firebase project**. Sinistero has no access to them.
