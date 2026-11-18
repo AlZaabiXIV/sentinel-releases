@@ -6,7 +6,7 @@
 
 Sentinel turns your PC's webcam (and your other cameras) into a security system. Arm it when you leave. If someone
 moves in front of the PC or touches the keyboard or mouse, your phone gets an alert with a **snapshot and a
-10-second clip**. Tap the alert to **watch live**, or **lock the PC** from your phone.
+30-second clip**. Tap the alert to **watch live**, or **lock the PC** from your phone.
 
 ## ⬇️ Download
 
@@ -24,11 +24,15 @@ Both apps update themselves: when a new version comes out, they offer it when yo
 - 🛡️ **Arm / Disarm** from the PC, the tray icon or your phone, with a countdown so you can leave the room
 - 📷 **All your cameras**: the built-in webcam, USB cameras and Wi-Fi cameras (RTSP)
 - 🏃 **Motion alerts** with smart filters (ignores light flicker and tiny movements)
-- 🎯 **Sensitivity zones**: draw boxes to watch only your desk or the door, or watch the whole picture
+- 🎯 **Watch and ignore zones**: watch only your desk or the door, and ignore a monitor, TV or window (from the PC or the phone)
 - ⌨️🖱️ **Touch alerts**: key presses, mouse moves and clicks (which keys were pressed is never recorded)
-- 📸 **Snapshot + 10-second clip** for every alert, on the PC and on your phone
+- 📸 **Snapshot + 30-second clips** for every alert (more clips follow while someone is still there)
 - 👁 **Live view** from any camera, or all cameras at once, straight from your PC to your phone (encrypted, never saved)
-- 🔒 **Sentinel Shield**: lock the PC when someone touches it; unlock from your phone or with your PIN
+- 🛡️ **Sentinel Shield**: a black screen with the Sentinel eye; keyboard and mouse blocked while your work keeps running behind it. A new PIN (or your phone's fingerprint) every time
+- 🔒 **Lock / Unlock PC** from your phone: the real Windows lock screen, unlocked with your Windows password behind your fingerprint
+- 🌙 **Close the screen**: screen off, PC keeps working; if anyone touches it, Sentinel locks it and alerts you
+- 🖥️ **PC remote control** from the phone: volume, keyboard and mouse lock, open apps, screenshots, messages, sleep / restart
+- 🔐 **App Lock** for the phone app: fingerprint or app PIN
 - 🕓 **Timeline** of everything that happened
 - 📹 **Video calls**: show your face full screen on the PC (it wakes up and locks), talk through the PC speakers even when muted, and hear the room
 - 🕶️ **Stealth Arm** from the phone: the PC screens go black and stay black while the cameras keep watching
