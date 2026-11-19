@@ -35,6 +35,10 @@ Both apps update themselves: when a new version comes out, they offer it when yo
 - 🔐 **App Lock** for the phone app: fingerprint or app PIN
 - 🕓 **Timeline** of everything that happened, Gmail-style: swipe to archive or delete (with Undo), pick many at once
 - 🗄 **Archive**: keep important events and recordings for good (never auto-deleted)
+- 💎 **Premium 3D design**: every button is a real-feel key that sinks when you press it (PC and phone)
+- 🎚️ **Disk slider**: choose how much space Sentinel may use (or all free space, with a warning at 4 GB and a safe stop at 1 GB)
+- ⏱️ **Clip length** 30 / 45 / 60 seconds or any custom number of seconds
+- 🎯 **Zone editor**: select, resize from the corners (with a magnifier on the phone), move or remove a single box
 - 📹 **Video calls**: show your face full screen on the PC (it wakes up and locks), talk through the PC speakers even when muted, and hear the room
 - 🕶️ **Stealth Arm** from the phone: the PC screens go black and stay black while the cameras keep watching
 - 🎞️ **Recording while armed** in 1-minute clips, with your own quality, disk limit and auto-delete; play any minute on the PC or the phone
