@@ -31,9 +31,10 @@ Both apps update themselves: when a new version comes out, they offer it when yo
 - 🛡️ **Sentinel Shield**: a black screen with the Sentinel eye; keyboard and mouse blocked while your work keeps running behind it. A new PIN (or your phone's fingerprint) every time
 - 🔒 **Lock / Unlock PC** from your phone: the real Windows lock screen, unlocked with your Windows password behind your fingerprint
 - 🌙 **Close the screen**: screen off, PC keeps working; if anyone touches it, Sentinel locks it and alerts you
-- 🖥️ **PC remote control** from the phone: volume, keyboard and mouse lock, open apps, screenshots, messages, sleep / restart
+- 🖥️ **PC remote control** from the phone: volume, keyboard and mouse lock, open your own list of apps, screenshots, messages, sleep / restart
 - 🔐 **App Lock** for the phone app: fingerprint or app PIN
-- 🕓 **Timeline** of everything that happened
+- 🕓 **Timeline** of everything that happened, Gmail-style: swipe to archive or delete (with Undo), pick many at once
+- 🗄 **Archive**: keep important events and recordings for good (never auto-deleted)
 - 📹 **Video calls**: show your face full screen on the PC (it wakes up and locks), talk through the PC speakers even when muted, and hear the room
 - 🕶️ **Stealth Arm** from the phone: the PC screens go black and stay black while the cameras keep watching
 - 🎞️ **Recording while armed** in 1-minute clips, with your own quality, disk limit and auto-delete; play any minute on the PC or the phone
