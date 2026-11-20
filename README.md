@@ -26,7 +26,8 @@ Both apps update themselves: when a new version comes out, they offer it when yo
 - 🏃 **Motion alerts** with smart filters (ignores light flicker and tiny movements)
 - 🎯 **Watch and ignore zones**: watch only your desk or the door, and ignore a monitor, TV or window (from the PC or the phone)
 - ⌨️🖱️ **Touch alerts**: key presses, mouse moves and clicks (which keys were pressed is never recorded)
-- 📸 **Snapshot + 30-second clips** for every alert (more clips follow while someone is still there)
+- 📸 **Records only when something happens**: snapshot + 30-second clips (starting 4 seconds before), more clips while someone is still there
+- 💡 **Ignores lights switching on/off** and screens flashing inside ignore boxes
 - 👁 **Live view** from any camera, or all cameras at once, straight from your PC to your phone (encrypted, never saved)
 - 🛡️ **Sentinel Shield**: a black screen with the Sentinel eye; keyboard and mouse blocked while your work keeps running behind it. A new PIN (or your phone's fingerprint) every time
 - 🔒 **Lock / Unlock PC** from your phone: the real Windows lock screen, unlocked with your Windows password behind your fingerprint
